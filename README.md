@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Khusan Yusupov @ystdn-exp
-### Backend Software Engineer
+### Full Stack Software Engineer
 
 
 <img src="https://komarev.com/ghpvc/?username=ystdn-exp&color=green&style=for-the-badge" alt="Profile Views" style="max-width: 49%;"/>
