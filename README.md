@@ -17,31 +17,31 @@
 ## My Tech Stack
 
 ### 🐍 Backend & Core
-![Python](./src/tech-stack/python.svg)&nbsp;&nbsp;&nbsp;&nbsp;
-![FastAPI](./src/tech-stack/fastapi.svg)&nbsp;&nbsp;&nbsp;&nbsp;
-![Flask](./src/tech-stack/flask.svg)&nbsp;&nbsp;&nbsp;&nbsp;
-![Socket.io](./src/tech-stack/socketio.svg)&nbsp;&nbsp;&nbsp;&nbsp;
-![Bash](./src/tech-stack/bash.svg)
+<img src="./src/tech-stack/python.svg" alt="Python" height="40">&nbsp;
+<img src="./src/tech-stack/fastapi.svg" alt="FastAPI" height="40">&nbsp;
+<img src="./src/tech-stack/flask.svg" alt="Flask" height="40">&nbsp;
+<img src="./src/tech-stack/socketio.svg" alt="Socket.io" height="40">&nbsp;
+<img src="./src/tech-stack/bash.svg" alt="Bash" height="40">
 
 ### 🚀 DevOps & Infrastructure
-![Docker](./src/tech-stack/docker.svg)&nbsp;&nbsp;&nbsp;&nbsp;
-![AWS](./src/tech-stack/aws.svg)&nbsp;&nbsp;&nbsp;&nbsp;
-![Argo CD](./src/tech-stack/argo_cd.svg)&nbsp;&nbsp;&nbsp;&nbsp;
-![Git](./src/tech-stack/git.svg)&nbsp;&nbsp;&nbsp;&nbsp;
-![Grafana](./src/tech-stack/grafana.svg)
+<img src="./src/tech-stack/docker.svg" alt="Docker" height="40">&nbsp;
+<img src="./src/tech-stack/aws.svg" alt="AWS" height="40">&nbsp;
+<img src="./src/tech-stack/argo_cd.svg" alt="Argo CD" height="40">&nbsp;
+<img src="./src/tech-stack/git.svg" alt="Git" height="40">&nbsp;
+<img src="./src/tech-stack/grafana.svg" alt="Grafana" height="40">
 
 ### 🗄️ Data & Caching
-![MySQL](./src/tech-stack/mysql.svg)&nbsp;&nbsp;&nbsp;&nbsp;
-![Redis](./src/tech-stack/redis.svg)
+<img src="./src/tech-stack/mysql.svg" alt="MySQL" height="40">&nbsp;
+<img src="./src/tech-stack/redis.svg" alt="Redis" height="40">
 
 ### 🎨 Frontend Development
-![Javascript](./src/tech-stack/javascript.svg)&nbsp;&nbsp;&nbsp;&nbsp;
-![React.js](./src/tech-stack/reactjs.svg)&nbsp;&nbsp;&nbsp;&nbsp;
-![HTML](./src/tech-stack/html.svg)&nbsp;&nbsp;&nbsp;&nbsp;
-![CSS](./src/tech-stack/css.svg)&nbsp;&nbsp;&nbsp;&nbsp;
-![Sass](./src/tech-stack/sass.svg)&nbsp;&nbsp;&nbsp;&nbsp;
-![Bootstrap](./src/tech-stack/bootstrap.svg)
+<img src="./src/tech-stack/javascript.svg" alt="Javascript" height="40">&nbsp;
+<img src="./src/tech-stack/reactjs.svg" alt="React.js" height="40">&nbsp;
+<img src="./src/tech-stack/html.svg" alt="HTML" height="40">&nbsp;
+<img src="./src/tech-stack/css.svg" alt="CSS" height="40">&nbsp;
+<img src="./src/tech-stack/sass.svg" alt="Sass" height="40">&nbsp;
+<img src="./src/tech-stack/bootstrap.svg" alt="Bootstrap" height="40">
 
 ### 📋 Management & Documentation
-![Jira](./src/tech-stack/jira.svg)&nbsp;&nbsp;&nbsp;&nbsp;
-![Confluence](./src/tech-stack/confluence.svg)
+<img src="./src/tech-stack/jira.svg" alt="Jira" height="40">&nbsp;
+<img src="./src/tech-stack/confluence.svg" alt="Confluence" height="40">
