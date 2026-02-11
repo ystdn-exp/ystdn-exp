@@ -19,7 +19,7 @@
 ### 🐍 Backend & Core
 <img src="./src/tech-stack/python.svg" alt="Python" height="40">&nbsp;
 <img src="./src/tech-stack/fastapi.svg" alt="FastAPI" height="40">&nbsp;
-<img src="./src/tech-stack/flask.svg" alt="Flask" height="40">&nbsp;
+<img src="https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
 <img src="./src/tech-stack/socketio.svg" alt="Socket.io" height="40">&nbsp;
 <img src="./src/tech-stack/bash.svg" alt="Bash" height="40">
 
