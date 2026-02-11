@@ -18,6 +18,7 @@
 
 ### 🐍 Backend & Core
 <img src="./src/tech-stack/python.svg" alt="Python" height="40">&nbsp;
+<img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django" width="70" height="70" style="background-color:white; padding:5px; border-radius:5px;"/>
 <img src="./src/tech-stack/fastapi.svg" alt="FastAPI" height="40">&nbsp;
 <img src="https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
 <img src="./src/tech-stack/socketio.svg" alt="Socket.io" height="40">&nbsp;
